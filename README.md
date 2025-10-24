@@ -1,2 +1,2 @@
 # COMPASS_RICH_Calibration
-codes for background and (n-1)
+Codes to create background map and to extract (n-1)
